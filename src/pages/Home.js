@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
-import Navbar from "../components/Navbar";
-import Hero from "../components/Hero";
-import Footer from "../components/Footer";
+import Navbar from "../components/Global/Navbar";
+import Hero from "../components/Global/Hero";
+import Footer from "../components/Global/Footer";
 
 const Home = () => {
   useEffect(() => {

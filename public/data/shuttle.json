@@ -1,0 +1,20 @@
+{
+  "schedules": [
+    {
+      "id": "JKT-BDG-0800-Blue",
+      "operator": "Blue Shuttle",
+      "origin": "Jakarta",
+      "destination": "Bandung",
+      "departures": ["08:00", "13:00", "19:00"],
+      "price": 120000
+    },
+    {
+      "id": "BDG-SBY-0900-TravelX",
+      "operator": "TravelX",
+      "origin": "Bandung",
+      "destination": "Surabaya",
+      "departures": ["09:00", "15:00"],
+      "price": 180000
+    }
+  ]
+}

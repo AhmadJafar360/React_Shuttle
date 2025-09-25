@@ -57,17 +57,6 @@ export default function HomePage() {
               </Tab>
             ))}
           </Tabs>
-          {/* Bisa juga pakai Accordion */}
-          {/* <Accordion>
-            {wilayah.map((w, i) => (
-              <Accordion.Item eventKey={i.toString()} key={i}>
-                <Accordion.Header>{w}</Accordion.Header>
-                <Accordion.Body>
-                  Daftar titik keberangkatan {w}
-                </Accordion.Body>
-              </Accordion.Item>
-            ))}
-          </Accordion> */}
         </div>
       </section>
 

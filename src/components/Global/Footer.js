@@ -6,9 +6,9 @@ export default function Footer() {
     <Container>
       <Row className="mt-5">
         <Col className="md">
-          <p>Jalan Suroyo No. 161 Mayangan Kota Jember 672000</p>
-          <p>binarcarrental@gmail.com</p>
-          <p>081233334808</p>
+          <p>Ahmad Ja'far Ali</p>
+          <p>ahmadjafarali361@gmail.com</p>
+          <p>0895354942277</p>
         </Col>
         <Col className="md">
           <p>Our services</p>
